@@ -16,9 +16,8 @@ Challenge 01 - QR code component
                                                                                                                                               
 Inspirada no desafio 100 Days of code, estipulei como meta desenvolver todos os challenges free do site Frontend Mentor, praticando um pouco todos os dias. Os desafios partirão do nível NEWBIE até o nível ADVANCED.
 
-Link do perfil no frontend Mentor: https://www.frontendmentor.io/profile/carolferreiradev
-<br/>
-Link do projeto online: https://challenge01-frontend-mentor-qr-code-page.vercel.app/
+<a href="[http://example.com/](https://www.frontendmentor.io/profile/carolferreiradev)" target="_blank">👩‍🚀 Meu perfil no FrontendMentor</a>
+<a href="[http://example.com/](https://challenge01-frontend-mentor-qr-code-page.vercel.app/)" target="_blank">🌎 Projeto online</a>
 
 ## 👩‍💻 Tecnologias
 
